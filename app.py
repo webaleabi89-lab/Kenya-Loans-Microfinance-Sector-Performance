@@ -167,8 +167,6 @@ st.download_button("⬇️ Download Dataset", csv, "kenya_loans.csv", "text/csv"
 # -------------------
 # FOOTER
 # -------------------
-st.markdown("---")
-st.markdown("Kenya FinTech Analytics")
 
 #In the terminal, run
 #streamlit run app.py
